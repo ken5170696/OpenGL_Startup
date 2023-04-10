@@ -122,7 +122,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>$(SolutionDir)\lib\assimp;$(SolutionDir)\lib\GLFW;C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\lib\glm;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>$(SolutionDir)\lib\assimp;$(SolutionDir)\lib\GLFW;$(SolutionDir)\lib\glm;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glm_static.lib;glfw3.lib;assimp-vc142-mtd.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
