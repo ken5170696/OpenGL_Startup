@@ -10,17 +10,23 @@ SimpleScene::SimpleScene(SceneStack _stack, SceneContext _context)
 
 void SimpleScene::draw()
 {
+	// Draw the object on the screen.
+
 
 }
 
 bool SimpleScene::update(float deltaTime)
 {
+	// Update game logic.
+
 
 	return false;
 }
 
 bool SimpleScene::processInput(GLFWwindow* window)
 {
+	// Handle user input here.
+
 
 	return false;
 }

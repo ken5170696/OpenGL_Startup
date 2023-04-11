@@ -1,3 +1,8 @@
+/* 
+	This is the header file for the GameManager class, which is responsible for managing the game loop and handling user input. 
+	It includes necessary libraries and headers, such as GLFW, GLAD, and ImGui.
+*/
+
 #pragma once
 #include <iostream>
 
