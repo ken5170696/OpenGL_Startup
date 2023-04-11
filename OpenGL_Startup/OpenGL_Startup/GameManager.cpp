@@ -22,7 +22,7 @@ GameManager::GameManager()
 		std::cerr << "Window Initialize failed.\n";
 		exit(-1);
 	}
-	glfwSetInputMode(m_Window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
+
 	glfwMakeContextCurrent(m_Window);
 
 	glfwSetWindowUserPointer(m_Window, this);
@@ -52,11 +52,10 @@ GameManager::GameManager()
 	const char* glsl_version = "#version 330";
 	ImGui_ImplOpenGL3_Init(glsl_version);
 
-	std::cout << "[Debug] Prepare Renderer\n";
-	m_Renderer = (std::make_shared<Renderer>());
-
 	std::cout << "[Debug] Prepare Scene Stack\n";
 	m_SceneStack = (std::make_shared<SceneStack>(SceneContext(m_Window, m_Renderer)));
+
+	std::cout << "[Debug] Scene registing\n";
 	registerScenes();
 	m_SceneStack->pushState(SceneID::ID::Game);
 
@@ -81,6 +80,7 @@ void GameManager::run()
 
 	std::cout << "[Debug] Game started\n";
 
+	// Game Loop
 	while (!glfwWindowShouldClose(m_Window))
 	{
 		float currentFrame = static_cast<float>(glfwGetTime());
@@ -91,9 +91,19 @@ void GameManager::run()
 		ImGui_ImplGlfw_NewFrame();
 		ImGui::NewFrame();
 
+
+		// Handle User Input: The Game Loop waits for input from the player and processes it, 
+		// such as button presses or mouse movements.
 		processInput(m_Window);
+
+		// Update Game State: Updates the game state based on the input received from the player and any other external events that occur during the game. 
+		// For example, it might update the position and velocity of game objects, apply physics, check for collisions, update the score, and so on.
 		update(deltaTime);
+		
+		// Render Graphics: The Game Loop renders the graphics to the screen based on the updated game state. 
+		// This involves drawing the game objects, applying lighting, shadows, and other visual effects, and updating the user interface as needed.
 		render();
+
 
 		// Render dear imgui into screen
 		ImGui::Render();

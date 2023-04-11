@@ -8,7 +8,6 @@
 #include "glad/glad.h"
 #include "KHR/khrplatform.h"
 
-#include "Renderer.h"
 #include "SceneStack.h"
 #include "SimpleScene.h"
 
