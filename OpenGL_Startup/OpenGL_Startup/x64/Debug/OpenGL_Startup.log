@@ -122,10 +122,8 @@
   Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\GLFW/glfw3.h
   Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\Renderer.h
   Note: including file:  C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\SimpleScene.h
-C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\GameManager.cpp(155,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\GameManager.cpp(156,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  Renderer.cpp
-  Note: including file: C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\Renderer.h
+C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\GameManager.cpp(166,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\GameManager.cpp(167,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   Scene.cpp
   Note: including file: C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\Scene.h
   Note: including file:  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\memory
@@ -203,6 +201,8 @@ C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_S
   Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility
   Note: including file:  C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\GameSetting.h
   Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\GLFW/glfw3.h
+  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glad/glad.h
+  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\KHR/khrplatform.h
   Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\Renderer.h
   Note: including file:  C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\SceneStack.h
   Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional
@@ -293,6 +293,8 @@ C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_S
   Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iosfwd
   Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\GameSetting.h
   Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\GLFW/glfw3.h
+  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glad/glad.h
+  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\KHR/khrplatform.h
   Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\Renderer.h
 C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\SceneStack.cpp(110,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
   SimpleScene.cpp
@@ -373,6 +375,8 @@ C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_S
   Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility
   Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\GameSetting.h
   Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\GLFW/glfw3.h
+  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glad/glad.h
+  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\KHR/khrplatform.h
   Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\Renderer.h
   Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\SceneStack.h
   Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional
@@ -380,294 +384,6 @@ C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_S
   Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\map
   Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xtree
   Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector
-  UBO.cpp
-  Note: including file: C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\UBO.h
-  Note: including file:  C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glad/glad.h
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\KHR/khrplatform.h
-  Note: including file:  C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm/glm.hpp
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/_fixes.hpp
-  Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cmath
-  Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\yvals.h
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\yvals_core.h
-  Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vcruntime.h
-  Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\sal.h
-  Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\concurrencysal.h
-  Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vadefs.h
-  Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xkeycheck.h
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\crtdbg.h
-  Note: including file:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt.h
-  Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vcruntime_new_debug.h
-  Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vcruntime_new.h
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\crtdefs.h
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\use_ansi.h
-  Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cstdlib
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\math.h
-  Note: including file:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdlib.h
-  Note: including file:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_malloc.h
-  Note: including file:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_search.h
-  Note: including file:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stddef.h
-  Note: including file:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstdlib.h
-  Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\limits.h
-  Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xtr1common
-  Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\intrin0.h
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\intrin0.inl.h
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/setup.hpp
-  Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cassert
-  Note: including file:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\assert.h
-  Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cstddef
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\../simd/platform.h
-  Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cstdint
-  Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\stdint.h
-  Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits
-  Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstddef
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\initializer_list
-  Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\climits
-  Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cfloat
-  Note: including file:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\float.h
-  Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\limits
-  Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cwchar
-  Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cstdio
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h
-  Note: including file:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstdio.h
-  Note: including file:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_stdio_config.h
-  Note: including file:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\wchar.h
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_memcpy_s.h
-  Note: including file:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\errno.h
-  Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vcruntime_string.h
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wconio.h
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wctype.h
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wdirect.h
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wio.h
-  Note: including file:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_share.h
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wprocess.h
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstring.h
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_wtime.h
-  Note: including file:      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\sys/stat.h
-  Note: including file:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\sys/types.h
-  Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\isa_availability.h
-  Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cassert
-  Note: including file:    C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\assert.h
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\fwd.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/qualifier.hpp
-  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\setup.hpp
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\vec2.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_bool2.hpp
-  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/type_vec2.hpp
-  Note: including file:      C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_vec2.inl
-  Note: including file:       C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\./compute_vector_relational.hpp
-  Note: including file:        C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\setup.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_bool2_precision.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_float2.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_float2_precision.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_double2.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_double2_precision.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_int2.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_int2_sized.hpp
-  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../ext/scalar_int_sized.hpp
-  Note: including file:      C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/setup.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_uint2.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_uint2_sized.hpp
-  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../ext/scalar_uint_sized.hpp
-  Note: including file:      C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/setup.hpp
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\vec3.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_bool3.hpp
-  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/type_vec3.hpp
-  Note: including file:      C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_vec3.inl
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_bool3_precision.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_float3.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_float3_precision.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_double3.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_double3_precision.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_int3.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_int3_sized.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_uint3.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_uint3_sized.hpp
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\vec4.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_bool4.hpp
-  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/type_vec4.hpp
-  Note: including file:      C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_vec4.inl
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_bool4_precision.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_float4.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_float4_precision.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_double4.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_double4_precision.hpp
-  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/setup.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_int4.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_int4_sized.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_uint4.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/vector_uint4_sized.hpp
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\mat2x2.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double2x2.hpp
-  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/type_mat2x2.hpp
-  Note: including file:      C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_mat2x2.inl
-  Note: including file:       C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\../matrix.hpp
-  Note: including file:        C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/setup.hpp
-  Note: including file:        C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\mat2x3.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double2x3.hpp
-  Note: including file:          C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/type_mat2x3.hpp
-  Note: including file:           C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_mat2x3.inl
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double2x3_precision.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float2x3.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float2x3_precision.hpp
-  Note: including file:        C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\mat2x4.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double2x4.hpp
-  Note: including file:          C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/type_mat2x4.hpp
-  Note: including file:           C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_mat2x4.inl
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double2x4_precision.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float2x4.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float2x4_precision.hpp
-  Note: including file:        C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\mat3x2.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double3x2.hpp
-  Note: including file:          C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/type_mat3x2.hpp
-  Note: including file:           C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_mat3x2.inl
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double3x2_precision.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float3x2.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float3x2_precision.hpp
-  Note: including file:        C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\mat3x3.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double3x3.hpp
-  Note: including file:          C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/type_mat3x3.hpp
-  Note: including file:           C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_mat3x3.inl
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double3x3_precision.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float3x3.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float3x3_precision.hpp
-  Note: including file:        C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\mat3x4.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double3x4.hpp
-  Note: including file:          C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/type_mat3x4.hpp
-  Note: including file:           C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_mat3x4.inl
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double3x4_precision.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float3x4.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float3x4_precision.hpp
-  Note: including file:        C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\mat4x2.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double4x2.hpp
-  Note: including file:          C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/type_mat4x2.hpp
-  Note: including file:           C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_mat4x2.inl
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double4x2_precision.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float4x2.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float4x2_precision.hpp
-  Note: including file:        C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\mat4x3.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double4x3.hpp
-  Note: including file:          C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/type_mat4x3.hpp
-  Note: including file:           C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_mat4x3.inl
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double4x3_precision.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float4x3.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float4x3_precision.hpp
-  Note: including file:        C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\mat4x4.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double4x4.hpp
-  Note: including file:          C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/type_mat4x4.hpp
-  Note: including file:           C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_mat4x4.inl
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double4x4_precision.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float4x4.hpp
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float4x4_precision.hpp
-  Note: including file:        C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/func_matrix.inl
-  Note: including file:         C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\../geometric.hpp
-  Note: including file:          C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/func_geometric.inl
-  Note: including file:           C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\../exponential.hpp
-  Note: including file:            C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/type_vec1.hpp
-  Note: including file:             C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_vec1.inl
-  Note: including file:            C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/func_exponential.inl
-  Note: including file:             C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\../vector_relational.hpp
-  Note: including file:              C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/setup.hpp
-  Note: including file:              C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/func_vector_relational.inl
-  Note: including file:             C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\_vectorize.hpp
-  Note: including file:             C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cassert
-  Note: including file:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\assert.h
-  Note: including file:           C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\../common.hpp
-  Note: including file:            C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/_fixes.hpp
-  Note: including file:            C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/func_common.inl
-  Note: including file:             C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\compute_common.hpp
-  Note: including file:              C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\setup.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_double2x2_precision.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float2x2.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\./ext/matrix_float2x2_precision.hpp
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\trigonometric.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/setup.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/func_trigonometric.inl
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\packing.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/func_packing.inl
-  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_half.hpp
-  Note: including file:      C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\setup.hpp
-  Note: including file:      C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail\type_half.inl
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\integer.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\detail/func_integer.inl
-  Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\intrin.h
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\setjmp.h
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\immintrin.h
-  Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\wmmintrin.h
-  Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\nmmintrin.h
-  Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\smmintrin.h
-  Note: including file:          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tmmintrin.h
-  Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\pmmintrin.h
-  Note: including file:            C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\emmintrin.h
-  Note: including file:             C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmmintrin.h
-  Note: including file:              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\mmintrin.h
-  Note: including file:              C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\malloc.h
-  Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\zmmintrin.h
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ammintrin.h
-  Note: including file:  C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm/gtc/matrix_transform.hpp
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\gtc\../ext/matrix_projection.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../gtc/constants.hpp
-  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\gtc\../ext/scalar_constants.hpp
-  Note: including file:      C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\../detail/setup.hpp
-  Note: including file:      C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\scalar_constants.inl
-  Note: including file:     C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\gtc\constants.inl
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\matrix_projection.inl
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\gtc\../ext/matrix_clip_space.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\matrix_clip_space.inl
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\gtc\../ext/matrix_transform.hpp
-  Note: including file:    C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\ext\matrix_transform.inl
-  Note: including file:   C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\include\glm\gtc\matrix_transform.inl
-  Note: including file:  C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\Shader.h
-  Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string
-  Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xstring
-  Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iosfwd
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cstring
-  Note: including file:       C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\string.h
-  Note: including file:        C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_memory.h
-  Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\new
-  Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\exception
-  Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vcruntime_exception.h
-  Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\eh.h
-  Note: including file:          C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\corecrt_terminate.h
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xatomic.h
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xutility
-  Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\__msvc_iter_core.hpp
-  Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\utility
-  Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cctype
-  Note: including file:     C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\ctype.h
-  Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\fstream
-  Note: including file:    C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\istream
-  Note: including file:     C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ostream
-  Note: including file:      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ios
-  Note: including file:       C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xlocnum
-  Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iterator
-  Note: including file:        C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\streambuf
-  Note: including file:         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xiosbase
-  Note: including file:          C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\share.h
-  Note: including file:          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\system_error
-  Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\__msvc_system_error_abi.hpp
-  Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cerrno
-  Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\stdexcept
-  Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xcall_once.h
-  Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xerrc.h
-  Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\atomic
-  Note: including file:            C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xthreads.h
-  Note: including file:             C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xtimec.h
-  Note: including file:              C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\ctime
-  Note: including file:               C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\time.h
-  Note: including file:          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xlocale
-  Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\memory
-  Note: including file:            C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\typeinfo
-  Note: including file:             C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vcruntime_typeinfo.h
-  Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xfacet
-  Note: including file:           C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xlocinfo
-  Note: including file:            C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\__msvc_xlocinfo_types.hpp
-  Note: including file:            C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\clocale
-  Note: including file:             C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\locale.h
-  Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\sstream
-  Note: including file:   C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iostream
-C:\Users\tingy\Desktop\Programming\OpenGL\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\OpenGL_Startup\UBO.h(15,6): warning C4091: 'typedef ': ignored on left of 'UBO::UpdateContent' when no variable is declared
   main.cpp
   Note: including file: C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\iostream
   Note: including file:  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\yvals_core.h
